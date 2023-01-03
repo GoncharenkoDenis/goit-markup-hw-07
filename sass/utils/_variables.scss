@@ -1,3 +1,18 @@
+    $primary-text-color:#757575 ;
+    $title-text-color:#212121 ;
+    $accent-color:#2196F3 ;
+    $footer-bg-color:#2F303A;
+    $white-bg-color:#FFFFFF;
+    $black-color:#000000;
+    $page-bg-color:#F5F5F5;
+    $img-bg-color:#EEEEEE;
+    $second-bg-color:#F5F4FA;
+    $icon-color:#AFB1B8;
+    $icon-hover-color:#2196F3;
+    $icon-bg-color:rgba(255, 255, 255, 0.1);
+    $bg-modal-color:rgba(0, 0, 0, 0.2);
+    $field-outline:rgba(33, 33, 33, 0.2);
+    $PageHeaderBorderBottom:#ECECEC;
 ul{
     padding: 0;
     margin-left: auto;
@@ -32,3 +47,4 @@ html{
 *::after{
     box-sizing: inherit;
 }
+
